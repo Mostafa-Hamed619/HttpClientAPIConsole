@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspNetTopics", "D:\AspNetTopics\AspNetTopics\AspNetTopics.csproj", "{D20B1EA4-0BF1-4BC8-B8AB-C8463B6D4059}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheConsole", "TheConsole\TheConsole.csproj", "{D6A43B2D-57A7-4654-AD84-CE239A6258D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D20B1EA4-0BF1-4BC8-B8AB-C8463B6D4059}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D20B1EA4-0BF1-4BC8-B8AB-C8463B6D4059}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D20B1EA4-0BF1-4BC8-B8AB-C8463B6D4059}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D20B1EA4-0BF1-4BC8-B8AB-C8463B6D4059}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6A43B2D-57A7-4654-AD84-CE239A6258D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6A43B2D-57A7-4654-AD84-CE239A6258D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6A43B2D-57A7-4654-AD84-CE239A6258D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6A43B2D-57A7-4654-AD84-CE239A6258D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B336976-5FE0-4D69-9F90-9B8C5E8C60F5}
+	EndGlobalSection
+EndGlobal
